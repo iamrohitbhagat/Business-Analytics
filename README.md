@@ -19,7 +19,7 @@ The Algorithms used are :
 	* RandomForestClassifier
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 1](/screenshots/ss1.png)
 
