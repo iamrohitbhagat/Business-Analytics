@@ -19,10 +19,10 @@ The Algorithms used are :
 	* RandomForestClassifier
 
 
-## screenshot
+##screenshot
 
-![Screenshot 1](/screenshots/ss1.png)
+![Screenshot 1](screenshot/ss1.png)
 
-![Screenshot 2](/screenshots/ss2.png)
+![Screenshot 2](screenshot/ss2.png)
 
-![Screenshot 3](/screenshots/ss3.png)
+![Screenshot 3](screenshot/ss3.png)
